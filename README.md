@@ -47,7 +47,7 @@ Place the required input files as described below, then run:
 python FOR.py
 ```
 
-Outputs will be written to the `Result/` directory, organized by height layer.
+Outputs will be written to the `Result/` directory, organized by height layer. When running on Linux, you need to replace the '\\' in FOR.py with '/'.
 
 ---
 
